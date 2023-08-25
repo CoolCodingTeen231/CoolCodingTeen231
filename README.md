@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CoolCodingTee</h1>
+<h1 align="center">Hi 👋, I'm CoolCodingTeen231</h1>
 <h3 align="center">Im a frontend and backend developer in US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolcodingteen231&label=Profile%20views&color=0e75b6&style=flat" alt="coolcodingteen231" /> </p>
