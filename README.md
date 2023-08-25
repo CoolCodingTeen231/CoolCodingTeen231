@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/smartperson13x" target="blank"><img src="https://img.shields.io/twitter/follow/smartperson13x?logo=twitter&style=for-the-badge" alt="smartperson13x" /></a> </p>
 
-- 🔭 I’m currently working on **on my JS engine**
+- 🔭 I’m currently working on **on my coding language**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently making a **coding language**
 
 - 👯 I’m looking to collaborate on **on Python Projects**
 
