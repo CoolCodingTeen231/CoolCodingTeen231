@@ -5,4 +5,4 @@
 - 📫 How to reach me Issues tab...
 
 # Languages I know
-<img src='python.jfif'>
+<img src='python.png'>
